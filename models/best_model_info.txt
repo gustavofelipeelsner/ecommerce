@@ -1,0 +1,8 @@
+Melhor modelo: Linear Regression
+Critério de seleção: menor RMSE
+
+Resultados comparativos:
+            Model    MAE     MSE   RMSE     R²
+Linear Regression 0.0897  0.6156 0.7846 1.0000
+    Random Forest 0.3883  3.5525 1.8848 0.9998
+          XGBoost 1.3310 16.4019 4.0499 0.9992
