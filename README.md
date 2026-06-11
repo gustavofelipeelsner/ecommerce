@@ -29,4 +29,4 @@ python main.py
 - Melhor modelo salvo em models/best_model.pkl
 
 ## Autor
-Gustavo Felipe Elsner
+Gustavo Felipe Elsner e Caio Bonomo
