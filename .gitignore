@@ -1,0 +1,24 @@
+# Dados (arquivos grandes — baixar separadamente do Kaggle)
+data/*.csv
+data/*.zip
+
+# Modelos treinados (gerados automaticamente)
+models/*.pkl
+models/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Sistema
+.DS_Store
+Thumbs.db

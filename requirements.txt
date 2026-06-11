@@ -1,0 +1,30 @@
+# ============================================================
+# Dependências do Projeto — Previsão de Vendas E-commerce
+# Python 3.12
+# ============================================================
+
+# Manipulação e análise de dados
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualização
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.0
+xgboost==2.0.3
+
+# Serialização de modelos
+joblib==1.4.2
+
+# Notebooks
+jupyter==1.0.0
+ipykernel==6.29.4
+notebook==7.2.0
+
+# Apresentação PowerPoint
+python-pptx==0.6.23
+
+# Utilitários
+tqdm==4.66.4
